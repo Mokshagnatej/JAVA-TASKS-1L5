@@ -1,3 +1,5 @@
 OUTPUT:
+
 Enter a number: 7
+
 Prime Number
