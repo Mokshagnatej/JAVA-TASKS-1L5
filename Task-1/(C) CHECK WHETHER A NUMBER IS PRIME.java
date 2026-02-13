@@ -12,7 +12,7 @@ class PrimeCheck {
         if (n <= 1) {
             isPrime = false;
         } else {
-            // Logic: Check divisors from 2 up to the square root of n
+            
             for (int i = 2; i <= Math.sqrt(n); i++) {
                 if (n % i == 0) {
                     isPrime = false;
